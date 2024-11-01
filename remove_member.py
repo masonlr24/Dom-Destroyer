@@ -4,8 +4,13 @@ import schedule
 import time
 import random
 
+# Function to read the access token from the file
+def get_access_token():
+    with open('accesstoken.txt', 'r') as file:
+        return file.read().strip()
+
 # Constants
-ACCESS_TOKEN = 'jB3YayE7jp5sB7uTj7EIEBybHPke69bD7LlObn0k'  # GroupMe access token
+ACCESS_TOKEN = get_access_token()  # GroupMe access token
 GROUP_ID = '34051141'  # Group ID
 USER_ID_TO_REMOVE = '703750157'  # User ID to remove
 USER_NAME_TO_REMOVE = 'Dominic Dalpoas'  # User's name to remove
