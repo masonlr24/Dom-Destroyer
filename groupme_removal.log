@@ -8,3 +8,24 @@
 2024-10-31 16:38:13,228 - INFO - Scheduled removal at 17:33
 2024-10-31 17:33:13,522 - ERROR - Failed to remove member: 400 - {"meta":{"code":400,"errors":["This user is no longer a member of the group."]},"response":null}
 2024-11-01 08:36:14,015 - INFO - Successfully removed member: Dominic Dalpoas (Count: 1)
+2024-11-01 17:33:14,660 - ERROR - Failed to remove member: 400 - {"meta":{"code":400,"errors":["This user is no longer a member of the group."]},"response":null}
+2024-11-02 08:36:15,059 - INFO - Successfully removed member: Dominic Dalpoas (Count: 2)
+2024-11-02 09:56:51,108 - INFO - Scheduled removal at 07:21
+2024-11-02 09:56:51,109 - INFO - Scheduled removal at 07:58
+2024-11-08 08:32:08,544 - ERROR - User Dom not found in the group.
+2024-11-08 08:33:02,442 - ERROR - User dom not found in the group.
+2024-11-08 08:34:47,647 - ERROR - User dom not found in the group.
+2024-11-08 08:35:19,560 - ERROR - User dom not found in the group.
+2024-11-08 08:35:53,665 - ERROR - User dom not found in the group.
+2024-11-08 08:36:25,853 - ERROR - User dom not found in the group.
+2024-11-08 08:36:45,676 - ERROR - User dom not found in the group.
+2024-11-08 08:37:46,880 - ERROR - User dom not found in the group.
+2024-11-08 08:38:02,531 - INFO - Scheduled removal at 17:06
+2024-11-08 08:38:02,532 - INFO - Scheduled removal at 11:50
+2024-11-08 08:39:50,836 - INFO - Scheduled removal of Samo (Evil Faction President) at 15:42
+2024-11-08 08:39:50,837 - INFO - Scheduled removal of Samo (Evil Faction President) at 15:28
+2024-11-08 08:44:55,307 - INFO - Scheduled removal of Samo (Evil Faction President) at 07:05
+2024-11-08 08:48:34,801 - INFO - Scheduled removal of Samo (Evil Faction President) at 06:18
+2024-11-08 08:50:23,444 - INFO - Scheduled removal of Samo (Evil Faction President) at 17:35
+2024-11-08 08:51:31,448 - INFO - Scheduled removal of Ian Fair at 13:34
+2024-11-08 08:53:25,221 - ERROR - User theta eta' not found in the group.
